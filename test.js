@@ -1,2 +1,4 @@
-# slam
-my own slam
+function hell()
+{
+document.getElementById("divnew").innerHTML = "hello";
+}
